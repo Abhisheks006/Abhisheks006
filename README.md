@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhisheks006
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Backend WEb Development
+- 👀 I’m interested in Android Development, Web Development and Data Science
+- 🌱 I’m currently learning flutter app  Development
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me on
 - instagram - https://www.instagram.com/_abhi_4300
