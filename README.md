@@ -12,9 +12,9 @@
   <a href="https://t.me/Abhishek_s0206"><img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhisheks006&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Abhisheks006&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" >
 
-<img src="https://komarev.com/ghpvc/?username=Abhisheks006&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=Abhisheks006&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views counter" >
 
 </div>
 
