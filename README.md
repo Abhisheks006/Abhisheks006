@@ -14,6 +14,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Abhisheks006&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
 
+<img src="https://komarev.com/ghpvc/?username=Abhisheks006&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views counter" />
+
 </div>
 
 ---
